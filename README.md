@@ -1,4 +1,4 @@
-# Append text with encoding v1.0.1
+# Append text with encoding v1.0.0
 
 The plugin provides the hability through a smartservice to append text to a file selecting the encoding
 
